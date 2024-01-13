@@ -4,7 +4,7 @@ export default function Resume() {
         <article>
           <h1>Resume</h1>
           <p>
-          I am close successfully finishing a full-stack web development course, becoming skilled in building websites from start to finish. Learned front-end technologies like React.js, back-end with Node.js, and database management using MongoDB and MySQL. Can now create dynamic and scalable web applications, collaborating well in teams.
+          I am close successfully finishing a full-stack web development course, becoming skilled in building websites from start to finish. Learned front-end technologies like React.js, back-end with Node.js, and database management using MongoDB and MySQL. Can now create dynamic and scalable web applications.
           </p>
         </article>
   

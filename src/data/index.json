@@ -1,0 +1,36 @@
+{
+    "portfolio": [
+    {
+      "id": "1",
+      "src": "/imgs/gameyap.png",
+      "title": "Game Yap",
+      "description": "A game search app where you can view games and view and write reviews!.",
+      "githubLink": "https://github.com/marcusperdue/Game-Yap",
+      "liveLink": "https://desolate-sea-54298-2d2f1e6b62d8.herokuapp.com/"
+    },
+    {
+      "id": "2",
+      "src": "/imgs/3NW.png",
+      "title": "3NW",
+      "description": "The 3NW website is going to be the future home to a pacific NW web development company. Host by John Trevis and myself.",
+      "githubLink": "https://github.com/CrisCo116/Big-Brain-Computing",
+      "liveLink": ""
+    },
+    {
+      "id": "3",
+      "src": "/imgs/livelocal.png",
+      "title": "Project 3",
+      "description": "LIVE LOCAL! The first group project that I did here in the coding camp. It is a ",
+      "githubLink": "https://github.com/Rounderr21/Live_Local",
+      "liveLink": "https://google.com/"
+    },
+    {
+      "id": "4",
+      "src": "/imgs/port.png",
+      "title": "Original Portfolio",
+      "description": "Here is my first portfolio project, it is a showcase of my early work and projects.",
+      "githubLink": "https://github.com/CrisCo116/02-showcase-portfolio-page",
+      "liveLink": "https://crisco116.github.io/02-showcase-portfolio-page/"
+    }
+  ]
+  }
